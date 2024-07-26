@@ -1,6 +1,4 @@
-# Atomic Python
-
-## ➡️ Math
+# Atomic Math
 
 ### 🟠 Arithmetic
 
